@@ -11,7 +11,7 @@ TRACKING_URI = "sqlite:///mlflow.db"
 EXPERIMENT_NAME = "Wine-Cultivar-Classification"
 MODEL_NAME = "WineClassifier"
 CHAMPION_ALIAS = "champion"
-RUN_STAGE_TAG = "from-main"
+RUN_STAGE_TAG = "candidate"
 CV_FOLDS = 5
 
 SCORING = {
