@@ -1,0 +1,11 @@
+mlruns/
+mlflow.db
+.pytest_cache/
+__pycache__/
+*.pyc
+.venv/
+*.pkl
+*.joblib
+*.tmp
+.vscode/
+.DS_Store
